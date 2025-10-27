@@ -1,6 +1,6 @@
 # 🧪 Steel Material Properties Analysis
 
-**Author:** Data Science Student  
+**Author:** Shyam sunder Chiliveri
 **Date:** October 20, 2025  
 **Dataset:** `complete_axle_test_with_chemistry_311_samples.csv`
 
